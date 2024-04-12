@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
                     with(sharedPreferences.edit()){
                         putString("apodo", apodo)
                         apply()
-                        //holiwis
+                        //holiwis2
 
                     }
 
